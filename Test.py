@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import unittest
 
 from Prog1 import summation
