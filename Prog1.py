@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
-def sumation(data):
+def summation(data):
   return sum(data)
